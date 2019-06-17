@@ -1,5 +1,7 @@
 # State management
-This library simply remembers the application across react components and modules in the 'data' property.
+This library remembers the application across react components and modules in the 'data' property.
+
+It also features a publish subscribe mechanic detailed below and should be node compatible.
 
 # Event channel methods
 ## subscribe(channel, callback)
