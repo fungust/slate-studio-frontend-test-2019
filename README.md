@@ -21,7 +21,7 @@ This repository represents a submission to the test available at [Slate Frontend
 
 5. **Bonus**
   - **Added a title bar to improve navigation and usability**
-  - **Incidents are ordered in terms of priority New -> Acknowledged -> Resolved**
+  - **Incidents are ordered in priority "New -> Acknowledged -> Resolved" for more practical use**
   - **Incidents can be edited by clicking on the individual incident pencil icon**
 
 ## Start the development
