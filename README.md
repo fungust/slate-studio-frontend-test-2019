@@ -2,10 +2,10 @@
 This repository represents a submission to the test available at [Slate Frontend Test Assignment](https://github.com/slate-studio/assessment-frontend-2019).
 
 1. You should store your library code in the `/lib` folder of this repository.
-		- **Code is in /lib/blu.js**
+	- **Code is in /lib/blu.js**
 2. You are free to use any architecture pattern for designing your library. It can be **Flux**, **Redux**, **BloC**, etc.
-		- **blu.js implements a simple publish/subscribe mechanism**
-		- **Instantiated via State.js component**
+	- **blu.js implements a simple publish/subscribe mechanism**
+	- **Instantiated via State.js component**
 3. Your library should be integrated with a simple example app in `src` folder.
     1. You should create a form component for creating a new incident
 		- **Created in Incident.js**
@@ -19,10 +19,10 @@ This repository represents a submission to the test available at [Slate Frontend
     2. The information should be displayed appropriately on devices of all sizes
 		- **layout should work on most devices**
 
-5. **Added**
-		- **Added a title bar to improve navigation and usability**
-		- **Incidents are ordered in terms of priority New -> Acknowledged -> Resolved**
-		- **Incidents can be edited by clicking on the individual incident pencil icon**
+5. **Bonus**
+  - **Added a title bar to improve navigation and usability**
+  - **Incidents are ordered in terms of priority New -> Acknowledged -> Resolved**
+  - **Incidents can be edited by clicking on the individual incident pencil icon**
 
 ## Start the development
 
