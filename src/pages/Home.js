@@ -6,7 +6,7 @@ import { stateManager } from '../components/State';
 export class Home extends Component {
   render() {
 
-    // sort form with highest priority at the top
+    // sort form with new (priority 0) at the top
     stateManager.data.incidents.sort((a, b) => {
       return a.priority - b.priority
     });
