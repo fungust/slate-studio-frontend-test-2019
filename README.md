@@ -1,12 +1,5 @@
-# Slate Frontend Test Assignment
-
-You should spend no more than **4 hours** on this test assignment.
-
-When you are done with the test, please send a link to your repo to your recruiter.  Thank you for your time and interest in Slate!
-
 ## Description
-
-For this test assignment, you will have to create your own simple state management library like Redux or MobX to handle events and store data across the application.
+This repository represents a submission to the test available at [Slate Frontend Test Assignment](https://github.com/slate-studio/assessment-frontend-2019).
 
 1. You should store your library code in the `/lib` folder of this repository.
 	- **Code is in /lib/blu.js**
@@ -31,20 +24,8 @@ For this test assignment, you will have to create your own simple state manageme
   - **Incidents are ordered in terms of priority New -> Acknowledged -> Resolved**
   - **Incidents can be edited by clicking on the individual incident pencil icon**
 
-## Evaluation
-
-You will be judged by following criteria:
-
-- Re-usability of your state management library
-- Amount of boilerplate code
-- Usage of new language and library features as you see fit
-- Component styling
-- Component breakdown (do not put everything into one big component, create a few smaller ones instead)
-
 ## Start the development
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Run `npm start` in the root of the project.
-
-## Development notes
+Run `npm install` before running `npm start` in the root of the project.
